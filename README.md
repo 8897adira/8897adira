@@ -10,6 +10,7 @@
 - To become proficient in full-stack development
 - To collaborate on open-source projects
 - To continuously learn and adapt to new technologies
+- 
 💬 **Let's connect!**
 - [LinkedIn](www.linkedin.com/in/aditi-m-6309a7191)
 - [Email](mailto:aditirmore0710@gmail.com)
