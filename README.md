@@ -15,8 +15,7 @@
 - [LinkedIn](www.linkedin.com/in/aditi-m-6309a7191)
 - [Email](mailto:aditirmore0710@gmail.com)
 
-✨ **Fun fact:**
-"I do my best coding between midnight and 3 AM, fueled by coldcoffee.💡✨"
+
 ---
 
 Feel free to check out my repositories and get in touch. I'm always open to feedback, suggestions, and collaboration opportunities!
