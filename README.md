@@ -5,7 +5,7 @@
 - Building small projects to strengthen my coding skills
 - 🌱 I’m currently learning ...
 - Web Development (HTML, CSS, JavaScript, ReactJS)
-- Backend Development (C#, Node.js)
+- Backend Development (Python)
 - 💡 **Goals:**
 - To become proficient in full-stack development
 - To collaborate on open-source projects
