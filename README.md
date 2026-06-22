@@ -8,7 +8,6 @@
 - Backend Development (Java ☕💻)
 - 💡 **Goals:**
 - To become proficient in full-stack development
-- To collaborate on open-source projects
 - To continuously learn and adapt to new technologies
 - 
 💬 **Let's connect!**
